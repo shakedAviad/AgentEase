@@ -1,5 +1,4 @@
 <Solution>
-  <Folder Name="/src/">
-    <Project Path="AgentEase.Core/AgentEase.Core.csproj" Id="7ec2d0d7-ca76-44b6-8ca9-6835b82aa0bc" />
-  </Folder>
+  <Folder Name="/src/" />
+  <Project Path="src/AgentEase.Core/AgentEase.Core.csproj" />
 </Solution>
